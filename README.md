@@ -13,19 +13,25 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de la Lección
 
-### 🟢 Módulo 1: Fundamentos y Arranque (A cargo de: [Nombre Integrante 1])
+### 🟢 Módulo 1: Fundamentos y Arranque (A cargo de: Luis Becerra)
 
-#### Lección 1: ¿Qué es Java y la Programación? (3 minutos)
-**Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-1)
-**Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-**Empieza a programar**: [Abrir Editor Online](https://replit.com/link-1)
+#### Lección 1 y 2: ¿Qué es Java, la Programación y las Variables? (6 minutos)
 
-#### Lección 2: Variables y tipos de datos (3 minutos)
-**Descripción**: Aprende a almacenar datos en Java usando variables.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-2)
-**Conclusiones clave**: Usa int, String; declara como `int edad = 15;`
-**Práctica**: [Clic para programar](https://replit.com/link-2) ¡No es necesario registrarse!
+**Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
+
+**Enlace**: [[Ver la lección](https://www.youtube.com/watch?v=3vbKR3H-h_U)](https://www.youtube.com/watch?v=3vbKR3H-h_U)
+
+**Conclusiones clave**:
+- La programación consiste en dar instrucciones a una computadora para resolver problemas o realizar tareas.
+- Java es un lenguaje de programación ampliamente utilizado para desarrollar aplicaciones, videojuegos y sistemas empresariales.
+- Las variables permiten almacenar datos que pueden utilizarse y modificarse durante la ejecución de un programa.
+- Algunos tipos de datos básicos en Java son:
+  - `int` para números enteros.
+  - `String` para texto.
+- Ejemplo de declaración de una variable:
+  ```java
+  int edad = 15;
+  String nombre = "Juan";
 
 ### 🟡 Módulo 2: Lógica y Decisiones (A cargo de: Santiago Enrique Vargas Alarcon - u202416706)
 
