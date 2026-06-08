@@ -47,19 +47,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
 **Práctica**: [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9)
 
-### 🟠 Módulo 3: Acción e Interacción (A cargo de: [Nombre Integrante 3])
+### 🟠 Módulo 3: Acción e Interacción (A cargo de: Rafael Agustin Pacheco Lavado)
 
 #### Lección 5: Métodos y parámetros (3 minutos)
 **Descripción**: Crea bloques de código reutilizable para no escribir lo mismo dos veces.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-5)
+**Enlace**: [Ver la lección](https://youtu.be/t01AiSmCuEY)
 **Conclusiones clave**: `public static void saludar(String nombre) {}`
-**Práctica**: [Clic para programar](https://jdoodle.com/link-5)
+**Práctica**: [Clic para programar](https://onlinegdb.com/nf8kXZQLi)
 
 #### Lección 6: Entrada/Salida básica (3 minutos)
 **Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-6)
+**Enlace**: [Ver la lección](https://youtu.be/iK6eU2Jb0m0)
 **Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
-**Práctica**: [Clic para programar](https://jdoodle.com/link-6)
+**Práctica**: [Clic para programar](https://onlinegdb.com/XZNjjPR36)
 
 ### 🔵 Módulo 4: El Núcleo POO (A cargo de: Víctor Manuel Alberca Saavedra)
 
