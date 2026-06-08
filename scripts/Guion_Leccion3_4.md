@@ -1,4 +1,4 @@
-# Guion 4: Sentencias if-else, bucles (for, while)
+# Guion 3 y 4: Sentencias if-else, bucles (for, while)
 
 Buenas tardes, en la clase de hoy vamos a ver lo que son los bucles y las estructuras de control. Bueno.
 
