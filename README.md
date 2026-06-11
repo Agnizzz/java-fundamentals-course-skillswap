@@ -75,19 +75,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Conclusiones clave**: Encapsulación; cómo evitar que modifiquen tus objetos con errores.
 **Práctica**: [https://onlinegdb.com/Yd7g2CyAr](https://onlinegdb.com/Yd7g2CyAr) 
 
-### 🟣 Módulo 5: Cierre y Proyecto (A cargo de: [Nombre Integrante 5])
+### 🟣 Módulo 5: Cierre y Proyecto (A cargo de: David Komatsu Dueñas)
 
 #### Lección 9: Arrays integrados con objetos (3 minutos)
 **Descripción**: Aprende a guardar una colección entera de objetos en una sola variable.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-9)
+**Enlace**: [https://youtu.be/JM26fTvS2eQ](https://youtu.be/JM26fTvS2eQ)
 **Conclusiones clave**: Uso de arreglos (Arrays) para almacenar múltiples instancias.
-**Práctica**: [Clic para programar](https://replit.com/link-9)
+**Práctica**: [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E)
 
 #### Lección 10: Proyecto Final - Registro de Estudiante (4 minutos)
 **Descripción**: Construye tu primera aplicación POO completa y conoce los errores más comunes de los principiantes.
-**Enlace**: [Ver la lección](https://www.youtube.com/watch?v=link-video-10)
+**Enlace**: [https://youtu.be/jxqvN8I0ELI](https://youtu.be/jxqvN8I0ELI)
 **Conclusiones clave**: Depurar errores, unir todos los conceptos aprendidos.
-**Proyecto final**: [Crea tu aplicación POO](https://replit.com/link-10) ¡Guarda y comparte!
+**Proyecto final**: [https://onlinegdb.com/OrEqWebYm](https://onlinegdb.com/OrEqWebYm) ¡Guarda y comparte!
 
 ---
 
