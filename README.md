@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
 
-**Enlace**: [[Ver la lección](https://www.youtube.com/watch?v=rKstDPpmE8U)](https://www.youtube.com/watch?v=rKstDPpmE8U)
+**Enlace**: [https://www.youtube.com/watch?v=rKstDPpmE8U](https://www.youtube.com/watch?v=rKstDPpmE8U)
 
 **Conclusiones clave**:
 - La programación consiste en dar instrucciones a una computadora para resolver problemas o realizar tareas.
@@ -106,12 +106,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **1ASI0729 Desarrollo de Aplicaciones Open Source**  
 **NRC**: 11990
 
-*   **Nombre del equipo**: [Nombre de tu startup]
-*   **Líder del equipo**: [Nombres y Apellidos del líder]
+*   **Nombre del equipo**: Innovify
+*   **Líder del equipo**: Victor Alberca
 *   **Integrantes del equipo**:
     *   Alberca Saavedra, Victor Manuel
     *   Becerra Ninahuanca, Luis Angel
     *   Komatsu Dueñas, David
     *   Vargas Alarcon, Santiago Enrique 
     *   Pacheco Lavado, Rafael Agustin
-*   **Fecha de entrega**: [Fecha exacta de la Semana 12]
+*   **Fecha de entrega**: 15/06/2026
