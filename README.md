@@ -119,7 +119,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 9 | Arrays integrados con objetos | [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E) |
 | 10 | Proyecto Final - Registro de Estudiante | [https://onlinegdb.com/OrEqWebYm](https://onlinegdb.com/OrEqWebYm) |
 
-* **Cuestionario**: [Prueba de conocimientos](https://forms.gle/añadir-tu-enlace-aqui)
 * **Compartir**: `#JavaBeginners`
 
 **¡Gracias por completar el curso!**
