@@ -3,11 +3,11 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: 60 minutos
-**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
-**Prerrequisitos**: Ninguno.
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge).
-**Repositorio de Código Fuente**: [https://github.com/Agnizzz/java-fundamentals-course-skillswap.git](https://github.com/Agnizzz/java-fundamentals-course-skillswap.git)
+* **Duración total**: 60 minutos
+* **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
+* **Prerrequisitos**: Ninguno.
+* **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge).
+* **Repositorio de Código Fuente**: [https://github.com/Agnizzz/java-fundamentals-course-skillswap.git](https://github.com/Agnizzz/java-fundamentals-course-skillswap.git)
 
 ---
 
@@ -19,9 +19,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
 
-**Enlace**: [https://www.youtube.com/watch?v=rKstDPpmE8U](https://www.youtube.com/watch?v=rKstDPpmE8U)
-**Práctica**: [https://onlinegdb.com/gWcvfIbPu](https://onlinegdb.com/gWcvfIbPu)
-**Errores comunes**: [ https://onlinegdb.com/gcEMiXUpY6]( https://onlinegdb.com/gcEMiXUpY6)
+* **Enlace**: [https://www.youtube.com/watch?v=rKstDPpmE8U](https://www.youtube.com/watch?v=rKstDPpmE8U)
+* **Práctica**: [https://onlinegdb.com/gWcvfIbPu](https://onlinegdb.com/gWcvfIbPu)
+* **Errores comunes**: [ https://onlinegdb.com/gcEMiXUpY6]( https://onlinegdb.com/gcEMiXUpY6)
 
 **Conclusiones clave**:
 - La programación consiste en dar instrucciones a una computadora para resolver problemas o realizar tareas.
@@ -46,58 +46,58 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Práctica**: [https://onlinegdb.com/LNWMEK_XM](https://onlinegdb.com/LNWMEK_XM)
 
 #### Lección 4: Estructuras de control - Decisiones y bucles (4 minutos)
-**Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
-**Enlace**: [https://youtu.be/eXQWu6j1-24](https://youtu.be/eXQWu6j1-24)
-**Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
-**Práctica**: [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9)
+* **Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
+* **Enlace**: [https://youtu.be/eXQWu6j1-24](https://youtu.be/eXQWu6j1-24)
+* **Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
+* **Práctica**: [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9)
 
 ---
 
 ### 🟠 Módulo 3: Acción e Interacción (A cargo de: Rafael Agustin Pacheco Lavado)
 
 #### Lección 5: Métodos y parámetros (3 minutos)
-**Descripción**: Crea bloques de código reutilizable para no escribir lo mismo dos veces.
-**Enlace**: [https://youtu.be/t01AiSmCuEY](https://youtu.be/t01AiSmCuEY)
-**Conclusiones clave**: `public static void saludar(String nombre) {}`
-**Práctica**: [https://onlinegdb.com/nf8kXZQLi](https://onlinegdb.com/nf8kXZQLi)
+* **Descripción**: Crea bloques de código reutilizable para no escribir lo mismo dos veces.
+* **Enlace**: [https://youtu.be/t01AiSmCuEY](https://youtu.be/t01AiSmCuEY)
+- **Conclusiones clave**: `public static void saludar(String nombre) {}`
+- **Práctica**: [https://onlinegdb.com/nf8kXZQLi](https://onlinegdb.com/nf8kXZQLi)
 
 #### Lección 6: Entrada/Salida básica (3 minutos)
-**Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
-**Enlace**: [Ver la lección](https://youtu.be/iK6eU2Jb0m0)
-**Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
-**Práctica**: [Clic para programar](https://onlinegdb.com/XZNjjPR36)
+- **Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
+- **Enlace**: [Ver la lección](https://youtu.be/iK6eU2Jb0m0)
+- **Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
+- **Práctica**: [Clic para programar](https://onlinegdb.com/XZNjjPR36)
 
 ---
 
 ### 🔵 Módulo 4: El Núcleo POO (A cargo de: Víctor Manuel Alberca Saavedra)
 
 #### Lección 7: Clases, objetos y métodos (3 minutos)
-**Descripción**: Conoce los moldes (Clases) y las galletas (Objetos). ¡Haremos nacer a tu primera mascota virtual!
-**Enlace**: [https://youtu.be/3785rpiseKk](https://youtu.be/3785rpiseKk)
-**Conclusiones clave**: Diferencia entre Clase y Objeto. Uso del Constructor para iniciar datos.
-**Práctica**: [https://onlinegdb.com/6TlHFiYhc](https://onlinegdb.com/6TlHFiYhc) ¡No necesitas registrarte!
+- **Descripción**: Conoce los moldes (Clases) y las galletas (Objetos). ¡Haremos nacer a tu primera mascota virtual!
+- **Enlace**: [https://youtu.be/3785rpiseKk](https://youtu.be/3785rpiseKk)
+- **Conclusiones clave**: Diferencia entre Clase y Objeto. Uso del Constructor para iniciar datos.
+- **Práctica**: [https://onlinegdb.com/6TlHFiYhc](https://onlinegdb.com/6TlHFiYhc) ¡No necesitas registrarte!
 
 #### Lección 8: Encapsulación e Instanciación (4 minutos)
-**Descripción**: Protege tus datos como en una caja fuerte usando `private`, Getters y Setters.
-**Enlace**: [https://youtu.be/2bUiiWrXbus](https://youtu.be/2bUiiWrXbus)
-**Conclusiones clave**: Encapsulación; cómo evitar que modifiquen tus objetos con errores.
-**Práctica**: [https://onlinegdb.com/Yd7g2CyAr](https://onlinegdb.com/Yd7g2CyAr) 
+- **Descripción**: Protege tus datos como en una caja fuerte usando `private`, Getters y Setters.
+- **Enlace**: [https://youtu.be/2bUiiWrXbus](https://youtu.be/2bUiiWrXbus)
+- **Conclusiones clave**: Encapsulación; cómo evitar que modifiquen tus objetos con errores.
+- **Práctica**: [https://onlinegdb.com/Yd7g2CyAr](https://onlinegdb.com/Yd7g2CyAr) 
 
 ---
 
 ### 🟣 Módulo 5: Cierre y Proyecto (A cargo de: David Komatsu Dueñas)
 
 #### Lección 9: Arrays integrados con objetos (3 minutos)
-**Descripción**: Aprende a guardar una colección entera de objetos en una sola variable.
-**Enlace**: [https://youtu.be/JM26fTvS2eQ](https://youtu.be/JM26fTvS2eQ)
-**Conclusiones clave**: Uso de arreglos (Arrays) para almacenar múltiples instancias.
-**Práctica**: [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E)
+- **Descripción**: Aprende a guardar una colección entera de objetos en una sola variable.
+- **Enlace**: [https://youtu.be/JM26fTvS2eQ](https://youtu.be/JM26fTvS2eQ)
+- **Conclusiones clave**: Uso de arreglos (Arrays) para almacenar múltiples instancias.
+- **Práctica**: [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E)
 
 #### Lección 10: Proyecto Final - Registro de Estudiante (4 minutos)
-**Descripción**: Construye tu primera aplicación POO completa y conoce los errores más comunes de los principiantes.
-**Enlace**: [https://youtu.be/jxqvN8I0ELI](https://youtu.be/jxqvN8I0ELI)
-**Conclusiones clave**: Depurar errores, unir todos los conceptos aprendidos.
-**Proyecto final**: [https://onlinegdb.com/OrEqWebYm](https://onlinegdb.com/OrEqWebYm) ¡Guarda y comparte!
+- **Descripción**: Construye tu primera aplicación POO completa y conoce los errores más comunes de los principiantes.
+- **Enlace**: [https://youtu.be/jxqvN8I0ELI](https://youtu.be/jxqvN8I0ELI)
+- **Conclusiones clave**: Depurar errores, unir todos los conceptos aprendidos.
+- **Proyecto final**: [https://onlinegdb.com/OrEqWebYm](https://onlinegdb.com/OrEqWebYm) ¡Guarda y comparte!
 
 ---
 
