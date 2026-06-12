@@ -40,10 +40,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### 🟡 Módulo 2: Lógica y Decisiones (A cargo de: Santiago Enrique Vargas Alarcon - u202416706)
 
 #### Lección 3: Operadores y expresiones (3 minutos)
-**Descripción**: Matemáticas y comparaciones básicas para que tu programa piense.
-**Enlace**: [https://youtu.be/1Z9TXRsuILg](https://youtu.be/1Z9TXRsuILg)
-**Conclusiones clave**: Uso de +, -, ==, y cómo comparar datos.
-**Práctica**: [https://onlinegdb.com/LNWMEK_XM](https://onlinegdb.com/LNWMEK_XM)
+- **Descripción**: Matemáticas y comparaciones básicas para que tu programa piense.
+- **Enlace**: [https://youtu.be/1Z9TXRsuILg](https://youtu.be/1Z9TXRsuILg)
+- **Conclusiones clave**: Uso de +, -, ==, y cómo comparar datos.
+- **Práctica**: [https://onlinegdb.com/LNWMEK_XM](https://onlinegdb.com/LNWMEK_XM)
 
 #### Lección 4: Estructuras de control - Decisiones y bucles (4 minutos)
 * **Descripción**: Toma decisiones con if-else y repite tareas con bucles for y while.
