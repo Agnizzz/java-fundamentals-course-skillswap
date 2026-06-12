@@ -3,7 +3,7 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~60 minutos
+**Duración total**: 60 minutos
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación.
 **Prerrequisitos**: Ninguno.
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge).
@@ -20,6 +20,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
 
 **Enlace**: [https://www.youtube.com/watch?v=rKstDPpmE8U](https://www.youtube.com/watch?v=rKstDPpmE8U)
+**Práctica**: [https://onlinegdb.com/gWcvfIbPu](https://onlinegdb.com/gWcvfIbPu)
+**Errores comunes**: [ https://onlinegdb.com/gcEMiXUpY6]( https://onlinegdb.com/gcEMiXUpY6)
 
 **Conclusiones clave**:
 - La programación consiste en dar instrucciones a una computadora para resolver problemas o realizar tareas.
@@ -32,6 +34,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   ```java
   int edad = 15;
   String nombre = "Juan";
+
+  ---
 
 ### 🟡 Módulo 2: Lógica y Decisiones (A cargo de: Santiago Enrique Vargas Alarcon - u202416706)
 
@@ -47,19 +51,23 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Conclusiones clave**: `if (edad > 12) {}`; `for (int i=0; i<5; i++) {}`
 **Práctica**: [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9)
 
+---
+
 ### 🟠 Módulo 3: Acción e Interacción (A cargo de: Rafael Agustin Pacheco Lavado)
 
 #### Lección 5: Métodos y parámetros (3 minutos)
 **Descripción**: Crea bloques de código reutilizable para no escribir lo mismo dos veces.
-**Enlace**: [Ver la lección](https://youtu.be/t01AiSmCuEY)
+**Enlace**: [https://youtu.be/t01AiSmCuEY](https://youtu.be/t01AiSmCuEY)
 **Conclusiones clave**: `public static void saludar(String nombre) {}`
-**Práctica**: [Clic para programar](https://onlinegdb.com/nf8kXZQLi)
+**Práctica**: [https://onlinegdb.com/nf8kXZQLi](https://onlinegdb.com/nf8kXZQLi)
 
 #### Lección 6: Entrada/Salida básica (3 minutos)
 **Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
 **Enlace**: [Ver la lección](https://youtu.be/iK6eU2Jb0m0)
 **Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
 **Práctica**: [Clic para programar](https://onlinegdb.com/XZNjjPR36)
+
+---
 
 ### 🔵 Módulo 4: El Núcleo POO (A cargo de: Víctor Manuel Alberca Saavedra)
 
@@ -74,6 +82,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Enlace**: [https://youtu.be/2bUiiWrXbus](https://youtu.be/2bUiiWrXbus)
 **Conclusiones clave**: Encapsulación; cómo evitar que modifiquen tus objetos con errores.
 **Práctica**: [https://onlinegdb.com/Yd7g2CyAr](https://onlinegdb.com/Yd7g2CyAr) 
+
+---
 
 ### 🟣 Módulo 5: Cierre y Proyecto (A cargo de: David Komatsu Dueñas)
 
@@ -92,9 +102,27 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ---
 
 ## Recursos adicionales
-*   **Código fuente completo**: [https://github.com/Agnizzz/java-fundamentals-course-skillswap.git](https://github.com/Agnizzz/java-fundamentals-course-skillswap.git)
 
-**¡Gracias por completar el curso!** Comparte tus avances usando `#JavaBeginners`
+* **Código fuente completo**: [Repositorio en GitHub](https://github.com/Agnizzz/java-fundamentals-course-skillswap.git)
+
+**Todas las actividades prácticas**:
+
+| Número de lección | Actividad | Empezar a programar |
+| :--- | :--- | :--- |
+| 1 y 2 | ¿Qué es Java, la Programación y las Variables? | [https://onlinegdb.com/gWcvfIbPu](https://onlinegdb.com/gWcvfIbPu) |
+| 3 | Operadores y expresiones | [https://onlinegdb.com/LNWMEK_XM](https://onlinegdb.com/LNWMEK_XM) |
+| 4 | Estructuras de control - Decisiones y bucles | [https://onlinegdb.com/UKQk8eCu9](https://onlinegdb.com/UKQk8eCu9) |
+| 5 | Métodos y parámetros | [https://onlinegdb.com/nf8kXZQLi](https://onlinegdb.com/nf8kXZQLi) |
+| 6 | Entrada/Salida básica | [https://onlinegdb.com/XZNjjPR36](https://onlinegdb.com/XZNjjPR36) |
+| 7 | Clases, objetos y métodos | [https://onlinegdb.com/6TlHFiYhc](https://onlinegdb.com/6TlHFiYhc) |
+| 8 | Encapsulación e Instanciación | [https://onlinegdb.com/Yd7g2CyAr](https://onlinegdb.com/Yd7g2CyAr) |
+| 9 | Arrays integrados con objetos | [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E) |
+| 10 | Proyecto Final - Registro de Estudiante | [https://onlinegdb.com/OrEqWebYm](https://onlinegdb.com/OrEqWebYm) |
+
+* **Cuestionario**: [Prueba de conocimientos](https://forms.gle/añadir-tu-enlace-aqui)
+* **Compartir**: `#JavaBeginners`
+
+**¡Gracias por completar el curso!**
 
 ---
 
