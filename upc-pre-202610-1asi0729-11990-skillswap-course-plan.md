@@ -63,9 +63,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 #### Lección 6: Entrada/Salida básica (3 minutos)
 - **Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
-- **Enlace**: [Ver la lección](https://youtu.be/iK6eU2Jb0m0)
+- **Enlace**: [https://youtu.be/iK6eU2Jb0m0](https://youtu.be/iK6eU2Jb0m0)
 - **Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
-- **Práctica**: [Clic para programar](https://onlinegdb.com/XZNjjPR36)
+- **Práctica**: [https://onlinegdb.com/XZNjjPR36](https://onlinegdb.com/XZNjjPR36)
 
 ---
 
