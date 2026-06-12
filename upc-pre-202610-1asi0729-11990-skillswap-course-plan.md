@@ -129,7 +129,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 **Carrera de Ingeniería de Software**  
-**Periodo 202520**  
+**Periodo 202601**  
 **1ASI0729 Desarrollo de Aplicaciones Open Source**  
 **NRC**: 11990
 
