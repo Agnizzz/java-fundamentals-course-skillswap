@@ -15,7 +15,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🟢 Módulo 1: Fundamentos y Arranque (A cargo de: Luis Becerra)
 
-#### Lección 1 y 2: ¿Qué es Java, la Programación y las Variables? (6 minutos)
+#### Lección 1 y 2: ¿Qué es Java, la Programación y las Variables? (10 minutos)
 
 **Descripción**: Aprende los conceptos fundamentales de la programación, descubre qué es Java y cómo almacenar información utilizando variables y tipos de datos.
 
@@ -61,7 +61,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: `public static void saludar(String nombre) {}`
 - **Práctica**: [https://onlinegdb.com/nf8kXZQLi](https://onlinegdb.com/nf8kXZQLi)
 
-#### Lección 6: Entrada/Salida básica (3 minutos)
+#### Lección 6: Entrada/Salida básica (4 minutos)
 - **Descripción**: ¡Haz que tu programa hable contigo pidiendo datos por consola!
 - **Enlace**: [https://youtu.be/iK6eU2Jb0m0](https://youtu.be/iK6eU2Jb0m0)
 - **Conclusiones clave**: Uso de la clase `Scanner` para leer texto.
@@ -71,13 +71,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🔵 Módulo 4: El Núcleo POO (A cargo de: Víctor Manuel Alberca Saavedra)
 
-#### Lección 7: Clases, objetos y métodos (3 minutos)
+#### Lección 7: Clases, objetos y métodos (4 minutos)
 - **Descripción**: Conoce los moldes (Clases) y las galletas (Objetos). ¡Haremos nacer a tu primera mascota virtual!
 - **Enlace**: [https://youtu.be/3785rpiseKk](https://youtu.be/3785rpiseKk)
 - **Conclusiones clave**: Diferencia entre Clase y Objeto. Uso del Constructor para iniciar datos.
 - **Práctica**: [https://onlinegdb.com/6TlHFiYhc](https://onlinegdb.com/6TlHFiYhc) ¡No necesitas registrarte!
 
-#### Lección 8: Encapsulación e Instanciación (4 minutos)
+#### Lección 8: Encapsulación e Instanciación (5 minutos)
 - **Descripción**: Protege tus datos como en una caja fuerte usando `private`, Getters y Setters.
 - **Enlace**: [https://youtu.be/2bUiiWrXbus](https://youtu.be/2bUiiWrXbus)
 - **Conclusiones clave**: Encapsulación; cómo evitar que modifiquen tus objetos con errores.
@@ -87,13 +87,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### 🟣 Módulo 5: Cierre y Proyecto (A cargo de: David Komatsu Dueñas)
 
-#### Lección 9: Arrays integrados con objetos (3 minutos)
+#### Lección 9: Arrays integrados con objetos (5 minutos)
 - **Descripción**: Aprende a guardar una colección entera de objetos en una sola variable.
 - **Enlace**: [https://youtu.be/JM26fTvS2eQ](https://youtu.be/JM26fTvS2eQ)
 - **Conclusiones clave**: Uso de arreglos (Arrays) para almacenar múltiples instancias.
 - **Práctica**: [https://onlinegdb.com/krQnS5A_E](https://onlinegdb.com/krQnS5A_E)
 
-#### Lección 10: Proyecto Final - Registro de Estudiante (4 minutos)
+#### Lección 10: Proyecto Final - Registro de Estudiante (5 minutos)
 - **Descripción**: Construye tu primera aplicación POO completa y conoce los errores más comunes de los principiantes.
 - **Enlace**: [https://youtu.be/jxqvN8I0ELI](https://youtu.be/jxqvN8I0ELI)
 - **Conclusiones clave**: Depurar errores, unir todos los conceptos aprendidos.
